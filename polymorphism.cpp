@@ -15,7 +15,7 @@ int main(){
         1.2 - Operator overloading
     
     2. Run time poymorphism
-        2.1 - Virtual functions
+        2.1 - Virtual functions.
     
     */
 return 0;
